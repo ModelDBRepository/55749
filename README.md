@@ -10,7 +10,7 @@ are available in this directory.
 To demonstrate Figure 1D from the paper start matlab and cd to this directory.
 Cut and past the following three lines into the matlab command line:
 
-```
+```matlab
 [TS] = [10 20 30 40 50 100 150 200];
 [X]  = [2.5 -20 0.5];
 [T] = test_ac(X,TS);
